@@ -12,18 +12,18 @@
 
 ---
 
-👩‍💻 About Me
-Computer Science Engineering graduate with hands-on experience in full-stack web development
-Completed a Full Stack Development Internship and built multiple real-world projects
-Interested in Software Development, Technical Support, IT Operations, and emerging technologies
-Eager to contribute to innovative teams while continuously learning and growing
+## 👩‍💻 About Me
+
+- Computer Science Engineering graduate with hands-on experience in full-stack web development
+- Completed a Full Stack Development Internship and built multiple real-world projects
+- Interested in Software Development, Technical Support, IT Operations, and emerging technologies
+- Eager to contribute to innovative teams while continuously learning and growing
 
 
 ---
-
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
@@ -49,12 +49,6 @@ A computer vision application that enables users to draw on a virtual canvas usi
 
 A web application that helps users discover recipes through API integration, providing recipe details, ingredients, and cooking instructions through an intuitive interface.
 
-
-## 📊 GitHub Stats
-
-![Sri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshinii02\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshinii02\&layout=compact)
 
 ---
 
