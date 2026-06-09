@@ -1,19 +1,67 @@
-<h1 align="center">Hi 👋, I'm V K Srivarshini</h1>
-<h3 align="center">Exploring the intersection of cloud computing, analytics, and full-stack development.</h3>
+# Hi 👋, I'm Sri Varshini
 
-- 🔭 I’m currently working on **cloud project**
+🎓 Computer Science Engineering Graduate
 
-- 🌱 I’m currently learning **Backend development, API integration, and cloud deployment**
+💻 Passionate about technology, problem-solving, and building impactful software solutions
 
-- 👯 I’m looking to collaborate on **Projects with purpose — from front-end to cloud**
+🌱 Exploring Software Development, Cloud Technologies, and IT Systems
 
-- 🤝 I’m looking for help with **Understanding best practices for scalable web development**
+🚀 Interested in Software Development, Technical Support, IT Support, System Engineering, and Technology Operations roles
 
-- 📫 How to reach me **varshinii1702@gmail.com**
+📍 Bengaluru, India
+
+---
+
+👩‍💻 About Me
+Computer Science Engineering graduate with hands-on experience in full-stack web development
+Completed a Full Stack Development Internship and built multiple real-world projects
+Interested in Software Development, Technical Support, IT Operations, and emerging technologies
+Eager to contribute to innovative teams while continuously learning and growing
 
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,vscode)](https://skillicons.dev)
+
+---
+
+## 🚀 Projects
+
+### 🍱 Social Kitchen
+
+A full-stack cloud kitchen platform built with React, Node.js, and MongoDB featuring secure authentication, role-based access, cart management, and online order processing.
+
+### 🎓 Feedback Nest
+
+A MERN stack college rating system with secure login, REST API integration, and a responsive user interface for collecting and managing student feedback.
+
+### 🚆 IRCTC Train Booking System
+
+A Java-based train reservation system supporting user management, train listings, seat selection, ticket booking, and cancellation with Gradle-based project management.
+
+### 🎨 Virtual Painter
+
+A computer vision application that enables users to draw on a virtual canvas using hand gestures captured through a webcam for an interactive painting experience.
+
+### 🍽️ Recipe Finder
+
+A web application that helps users discover recipes through API integration, providing recipe details, ingredients, and cooking instructions through an intuitive interface.
+
+
+## 📊 GitHub Stats
+
+![Sri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=varshinii02\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshinii02\&layout=compact)
+
+---
+
+## 🌐 Portfolio
+
+[🔗 Visit My Portfolio](https://varshinii02.github.io/srivarshini-portfolio/)
+
+---
+
+⭐ Thanks for visiting my profile!
